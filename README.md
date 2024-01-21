@@ -20,7 +20,7 @@ esse medicamento com uma concentração de 50% no estoque, inserindo essas infor
 lugares devidos, você consegue descobrir quantos mg do medicamento com 50% de concentração 
 irá ser equivalento ao com apenas 20%.
 
-#Detalhes técnicos
+# Detalhes técnicos
 O website foi utilizado usando react + typescript, além do bootstrap, que subtituiu o tailwindcss, após
 alguns problemas.
 
