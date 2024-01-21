@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Nunito+Sans:ital,opsz,wght@0,6..12,700;1,6..12,400&family=Poppins:wght@400;600;700&display=swap");
+
+:root {
+    --title-bg: #0db800;
+    --warning-bg-color: #00b834;
+    --warning-color: #d24545;
+    --main-font: "Poppins", sans-serif;
+    --secondary-font: "Nunito Sans", sans-serif;
+    --main-font-color: white;
+    --card-perc-bg-color: #711db0;
+    --card-diluicao-bg-color: #0766ad;
+}
